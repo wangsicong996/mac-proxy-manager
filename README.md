@@ -1,7 +1,7 @@
 # MacOS Proxy Manager ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/zhiadev/mac-proxy-manager/total?style=flat-square&logo=github&label=DOWNLOADS&labelColor=%2331363C&color=%235648E3)
 
 
-
+asdasd
 
  <image src="https://raw.githubusercontent.com/ZhiaDev/mac-proxy-manager/master/assets/github-proxy-manager-cover.jpg">
 
